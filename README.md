@@ -17,7 +17,7 @@
 
 This simple Sales Analysis is aimed at providing insight on how factors such as an individual income,age bracket and their commute distance affect their demand for bike purchase.
 
-[Excel Project Dataset.xlsx](https://github.com/Bamscrown/Bile-Sales-Dashboard/files/14617781/Excel.Project.Dataset.xlsx)
+
 
 
 ### Data Source
