@@ -18,6 +18,8 @@
 
 This simple Sales Analysis is aimed at providing insight on how factors such as an individual income,age bracket and their commute distance affect their demand for bike purchase.
 
+
+
 ### Data Source
 
 The Primary Data Set used for this Analysis is a "Excel Project Dataset.xlsx" cotaining detail information about purchase of bike, commute distance of the customers, age bracket,education ,gender amongst others,
