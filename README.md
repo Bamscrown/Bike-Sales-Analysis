@@ -37,7 +37,7 @@ The Primary Data Set used for this Analysis is a "Excel Project Dataset.xlsx" co
  
 In the data cleaning /prepartion the following were carried out
 
-- Date  inspection
+- Data  inspection
 - Checks amd removal of duplicates
 - Changing of M, F and S  syntax in Gender and Marital Status Columns to Male, Female and Single for proper understanding and definition
 - Using "IFS"  function to create a new coloumn to specifiy the age range as Old, Middle Age and Adolescent using the age data in the Age column
