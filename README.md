@@ -10,8 +10,7 @@
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [References](references)
+  
 
   
 ### Project Overview
@@ -58,15 +57,20 @@ Three major realtionship tables were created
 - Table 3 : Count of bike purchase base on the customer cummute distance
 
 - ### Results
-- 
+  
   The Analysis Results are summarised as follows;
+  - The demand for bike is higher within the Adolescent age bracket as such the age is a significant factor on the purchase of bike
+  - The higher the income of rhe customer the more interested in purchasing a bike
+  - Commute distance of the customer does not affect the purchase of a bike
+  - The purchase of a bike is not significantly impacted by the Gender of the customer
 
 ### Recommendations
 
-Base on the Analysis, i recommend the following actions,
+Base on the result of the  Analysis, i recommend the following actions,
+- The marketing strategy of the organisation should focus more on the Middle age bracket between 30 and 54 yearsold,  they are more interested in purchasing a bike
+- The Marketing strategy should also focus more on the higher income earners within the entire region
+- The marketing starategy should not also be gender focused as both the male and female are interested in purchasing a bike espcially when the earn more 
 
-### Limitations
 
-### References
 
   
