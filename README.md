@@ -71,7 +71,7 @@ Three major realtionship tables were created
 ### Recommendations
 
 Base on the result of the  Analysis, i recommend the following actions,
-- The marketing strategy of the organisation should focus more on the Middle age bracket between 30 and 54 yearsold,  they are more interested in purchasing a bike
+- The marketing strategy of the organisation should focus more on the Middle age bracket between 30 and 54 years old,  they are more interested in purchasing a bike
 - The Marketing strategy should also focus more on the higher income earners within the entire region
 - The marketing starategy should not also be gender focused as both the male and female are interested in purchasing a bike espcially when the earn more 
 
